@@ -1,0 +1,29 @@
+{
+  "name": "amatsuhikone",
+  "version": "1.0.0",
+  "description": "Library for handling specific osu! file structures.",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuragarimoe/amatsuhikone.git"
+  },
+  "keywords": [
+    "osu",
+    "library",
+    "osz2",
+    "osr"
+  ],
+  "author": "Irisu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kuragarimoe/amatsuhikone/issues"
+  },
+  "homepage": "https://github.com/kuragarimoe/amatsuhikone#readme"
+}
